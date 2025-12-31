@@ -1,10 +1,10 @@
 " ----------------------------------------------------------------------
 " vim-journal   filetype plugin / journal for Vim
-" Maintainer:   Sergey Golitsynskiy <sgolitsynskiy@gmail.com>
+" Maintainer:   John Davis <jdavcs@gmail.com>
 " File:         autoload/journal.vim
-" Source:       https://github.com/sgolitsynskiy/vim-journal
-"  License:      MIT
-" Last Updated: 2017 Aug 24 11:15:56 PM CDT
+" Source:       https://github.com/jdavcs/vim-journal
+" License:      MIT
+" Last Updated: 2025 Dec 30 10:52:49 PM EST
 " ----------------------------------------------------------------------
 
 

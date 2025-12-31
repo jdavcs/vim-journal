@@ -1,10 +1,10 @@
 " ----------------------------------------------------------------------
 " vim-journal   filetype plugin / journal for Vim
-" Maintainer:   Sergey Golitsynskiy <sgolitsynskiy@gmail.com>
+" Maintainer:   John Davis <jdavcs@gmail.com>
 " File:         ftplugin/journal.vim
-" Source:       https://github.com/sgolitsynskiy/vim-journal
+" Source:       https://github.com/jdavcs/vim-journal
 " License:      MIT
-" Last Updated: 2018 May 29 12:46:57 PM EDT
+" Last Updated: 2025 Dec 30 10:50:52 PM EST
 " ----------------------------------------------------------------------
 
 

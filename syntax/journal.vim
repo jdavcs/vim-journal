@@ -1,10 +1,10 @@
 " ----------------------------------------------------------------------
 " vim-journal   syntax file
-" Maintainer:   Sergey Golitsynskiy <sgolitsynskiy@gmail.com>
+" Maintainer:   John Davis <jdavcs@gmail.com>
 " File:         syntax/journal.vim
-" Source:       https://github.com/sgolitsynskiy/vim-journal
+" Source:       https://github.com/jdavcs/vim-journal
 " License:      MIT
-" Last Updated: 2017 Aug 26 02:15:38 PM CDT
+" Last Updated: 2025 Dec 30 10:51:06 PM EST
 " ----------------------------------------------------------------------
 
 if version < 600
